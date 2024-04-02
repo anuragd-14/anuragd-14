@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anuragdaf27@gmail.com**
 
-- ⚡ Fun fact :- Food and Food🎵 is the only reason to be alive.
+- ⚡ Fun fact :- Food and Food🍔 is the only reason to be alive.
 
 <br>
 
