@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Daf</h1>
-<h3 align="center">Student at IIIT Vadodara ICD 🌟.</h3>
+<h3 align="center">Student at IIIT Vadodara 🌟.</h3>
 
 <br>
 
