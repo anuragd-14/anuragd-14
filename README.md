@@ -117,7 +117,7 @@ When the servers are down (or even when they aren't), you'll find me exploring t
 #### 🎨 [Visual Programming Language](https://github.com/anuragd-14)
 > **Syntax-free coding** for early learners. Built with **React.js & Blockly.js**, reducing execution latency by 40%.
 
-#### 🤖 [Agnostic WhatsApp Chatbot](https://github.com/anuragd-14)
+#### 🤖 [Language Agnostic WhatsApp Chatbot](https://github.com/anuragd-14)
 > **LLaMA-powered RAG pipeline** handling 100+ queries/day. Multi-lingual and hyper-responsive.
 
 #### 📉 [DDR Report Generator](https://github.com/anuragd-14)
