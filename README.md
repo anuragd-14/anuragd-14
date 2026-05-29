@@ -127,9 +127,9 @@ When the servers are down (or even when they aren't), you'll find me exploring t
 
 ### 🎖️ Leadership & Achievements
 
-- **Google Gemini Student Ambassador** (Aug 2025 – Present)
-- **Secretary @ Droid (Robotics Club)** - Community of 100+ members.
-- **General Secretary @ Academics Committee** - Representing 200+ students.
+- **Google Gemini Student Ambassador** (Aug 2025 – May 2026)
+- **Secretary @ Droid (Robotics Club)** (May 2025 - April 2026)- Community of 100+ members.
+- **General Secretary @ Academics Committee** (May 2025 - April 2026)- Representing 200+ students.
 
 ---
 
