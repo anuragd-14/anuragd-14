@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer | AI & ML Developer | Technical Leadership & Innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+AI+Solutions;LLM+%26+RAG+Engineer;AI+Intern+@+ISRO,+Space+Applications+Centre;Transforming+Ideas+into+Code;Full+Stack+GenAI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+AI+Solutions;LLM+%26+RAG+Engineer;Transforming+Ideas+into+Code;Full+Stack+GenAI+Developer" alt="Typing SVG" />
 </p>
 
 <!-- <p align="center">
